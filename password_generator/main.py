@@ -1,5 +1,5 @@
 # Random password generator
-# Creator: JackBrow-Dev
+# Creator: JackBroow
 
 import random
 
